@@ -1,1 +1,1 @@
-web: uvicorn imageapi:app --host 0.0.0.0 --port 4000
+web: uvicorn imageapi:app --host 0.0.0.0 --port 80
